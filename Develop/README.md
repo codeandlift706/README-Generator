@@ -1,4 +1,4 @@
-# sdf
+# README Generator
 
   ## Table of Contents
   - [Description](#Description)
@@ -10,24 +10,24 @@
   - [Questions](#Questions)
 
   ## Description
-  sdf
+  Generate a README file from the command line in the terminal.
 
   ## Installation
-  sdf
+  VS Code for JavaScript. Install Inquirer NPM. 
 
   ## Usage
-  sdf
+  For any repo that needs an accompanying README file.
   
   ## License
-  Apache License 2.0
+  MIT License
 
   
   ## Contribution
-  sdf
+  UCI bootcamp,start code provided.
   
   ## Tests
-  sdf
+  Clone the contents of this repo. Open the terminal and run node index to start the process of generating the README.
   
   ## Questions
-  The link to my Github Profile here: https://github.com/sdf.
-  For any additional questions, please reach me at: sdf.
+  The link to my Github Profile here: https://github.com/codeandlift706.
+  For any additional questions, please reach me at: channguyen715@gmail.com.

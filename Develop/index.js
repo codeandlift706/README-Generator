@@ -41,6 +41,7 @@ const questions = [
         message: 'What type of license will you choose for your project?',
         name: 'license',
         choices: [
+            'None',
             'Apache License 2.0',
             'GNU General Public License v3.0',
             'MIT License',
@@ -49,11 +50,11 @@ const questions = [
             'Boost Software License 1.0',
             'Creative Commons Zero v1.0 Universal',
             'Eclipse Public License 2.0',
-            'GNU Affero General Pulic License 3.0',
+            'GNU Affero General Pulic License v3.0',
             'GNU General Public License v2.0',
             'GNU Lesser General Public License v2.1',
             'Mozilla Public License 2.0',
-            'The Unilicense'
+            'The Unlicense'
         ]
     },
     {
