@@ -69,9 +69,6 @@ const questions = [
     },
 ];
 
-
-//we take the inquirer responses and create README file, write the responses to the file
-
 // TODO: Create a function to write README file
 const writeToFile = (fileName, data) => {
     fs.writeFile('README.md', generateMarkdown(data), (err) => {
@@ -81,7 +78,6 @@ const writeToFile = (fileName, data) => {
 
 // TODO: Create a function to initialize app
 //function init() {}
-
 const init = () => {
     inquirer
         .prompt(questions)
@@ -91,10 +87,7 @@ const init = () => {
         })
 }
 
-
-
 // Function call to initialize app
 init();
-
 
 //to test this, run in terminal = node index.js
