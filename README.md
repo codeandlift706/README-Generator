@@ -30,7 +30,7 @@
   ![Screenshot of README questions array](assets/questionsScreenshot.png)
 
   ## License
-  None
+  This project is under the MIT license
   
   ## Contribution
   The starter JavaScript files are credited to the content in the starter-code repository, found here: https://github.com/coding-boot-camp/potential-enigma.
