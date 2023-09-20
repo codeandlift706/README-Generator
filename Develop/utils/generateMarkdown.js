@@ -12,7 +12,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license !== 'None') {
-    return `[License](## License)`
+    return `[License](##License)`
   }
 
   return "";
@@ -24,7 +24,7 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license !== 'None') {
-    return `## License
+    return `##License
     This project is under the ${license} license`
   }
 
@@ -39,34 +39,34 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}
 
 
-  ## Table of Contents
-  - [Description](## Description)
-  - [Installation](## Installation)
-  - [Usage](## Usage)
+  ##Table of Contents
+  - [Description](##Description)
+  - [Installation](##Installation)
+  - [Usage](##Usage)
   - ${renderLicenseLink(data.license)}
 
-  - [Contribution](## Contribution)
-  - [Tests](## Tests)
-  - [Questions](## Questions)
+  - [Contribution](##Contribution)
+  - [Tests](##Tests)
+  - [Questions](##Questions)
 
-  ## Description
+  ##Description
   ${data.description}
 
-  ## Installation
+  ##Installation
   ${data.installation}
 
-  ## Usage
+  ##Usage
   ${data.usage}
 
   ${renderLicenseSection(data.license)}
   
-  ## Contribution
+  ##Contribution
   ${data.contribution}
   
-  ## Tests
+  ##Tests
   ${data.test}
   
-  ## Questions
+  ##Questions
   The link to my Github Profile here: https://github.com/${data.username}.
   For any additional questions, please reach me at: ${data.email}.
 `
