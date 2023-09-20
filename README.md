@@ -30,7 +30,7 @@
   ![Screenshot of README questions array](assets/questionsScreenshot.png)
 
   ## License
-  This project is under the MIT license
+  This project is under the MIT license.
   
   ## Contribution
   The starter JavaScript files are credited to the content in the starter-code repository, found here: https://github.com/coding-boot-camp/potential-enigma.
@@ -44,7 +44,7 @@
   To record the README generator, the instructions can be found here: https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide.
 
   ## Tests
-  To test this README generator, make sure that the appropriate installations have been completed. Users can then clone this repo, navigate to the terminal of this directory, and test typing "node index" in the terminal command line. Answer the series of questions with "test" and select a license at random. Upon answering all questions, a new README file will be created in your VS code of the repo, or, if you have an existing README file, what the user inputted will overwrite what was on the README file previously. Please refer to the video linked in the [Description](#description) and see a screenshot of an example below if you've answered "test" to all the questions:
+  To test this README generator, make sure that the appropriate installations have been completed. Users can then clone this repo, navigate to the terminal of this directory, and test typing "node index" in the terminal command line. Answer the series of questions with "test" and select a license at random. Upon answering all questions, a new README file will be created in your VS code of the repo, or, if you have an existing README file, what the user inputted will overwrite what was on the README file previously. Please refer to the video linked in the [Description](#description) and see a screenshot of an example below of the README.md file that will generate if you've answered "test" to all the questions:
   ![Screenshot of test](assets/testScreenshot.png)
 
 
