@@ -12,7 +12,7 @@
 
   ## Description
   The purpose of creating a README-Generator through the command line in the terminal is to make the process of creating a README for repos more efficient. Upon opening the terminal, users answer a series of questions, and once complete, the README document will be dynamically created along with the responses appended to it, placed in their appropriate sections.
-  View a video of the README-Generator here: https://drive.google.com/file/d/1cLhhIEgOBvTjl9oB2bdTwXhH5Deb9vbA/view?usp=sharing.
+  View a video of the README-Generator here: https://drive.google.com/file/d/1Mn2AnRmU_M7zRcjOL_tJjv3-OxWlqWII/view?usp=sharing.
 
   ## Installation
   VS Code for JavaScript. GibHub for version control and for this repo. The npm inquirer@8.2.4 also needs to be installed. The link can be found here: https://www.npmjs.com/package/inquirer/v/8.2.4.
