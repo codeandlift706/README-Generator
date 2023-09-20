@@ -40,14 +40,14 @@ function generateMarkdown(data) {
 
 
   ## Table of Contents
-  - [Description](##Description)
-  - [Installation](##Installation)
-  - [Usage](##Usage)
+  - [Description](## Description)
+  - [Installation](## Installation)
+  - [Usage](## Usage)
   - ${renderLicenseLink(data.license)}
 
-  - [Contribution](##Contribution)
-  - [Tests](##Tests)
-  - [Questions](##Questions)
+  - [Contribution](## Contribution)
+  - [Tests](## Tests)
+  - [Questions](## Questions)
 
   ## Description
   ${data.description}

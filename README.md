@@ -2,13 +2,13 @@
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Table of Contents
-  - [Description](##Description)
-  - [Installation](##Installation)
-  - [Usage](##Usage)
-  - [License](##License)
-  - [Contribution](##Contribution)
-  - [Tests](##Tests)
-  - [Questions](##Questions)
+  - [Description](## Description)
+  - [Installation](## Installation)
+  - [Usage](## Usage)
+  - [License](## License)
+  - [Contribution](## Contribution)
+  - [Tests](## Tests)
+  - [Questions](## Questions)
 
   ## Description
   The purpose of creating a README-Generator through the command line in the terminal is to make the process of creating a README for repos more efficient. Upon opening the terminal, users answer a series of questions, and once complete, the README document will be dynamically created along with the responses appended to it, placed in their appropriate sections.
